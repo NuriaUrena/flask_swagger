@@ -32,7 +32,8 @@ On this exercise the only goal is to create your first API where you will invoke
 Then open a url on http://localhost:99/form
 
 Class Exercise:
-- Modify /users/<user_id> call to split it according to the methods. Call to methods using postman.
+- Modify /users/<user_id> call to split it according to the methods.
+- Call to methods using postman.
 >http://localhost:99/form
 >http://localhost:99/login
 >http://localhost:99/users/Nuria as GET, POST, DELETE and PUT
