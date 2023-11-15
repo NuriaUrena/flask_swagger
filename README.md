@@ -34,6 +34,7 @@ Then open a url on http://localhost:99/form
 Class Exercise:
 - Modify /users/<user_id> call to split it according to the methods.
 - Call to methods using postman.
+
 >http://localhost:99/form
 
 >http://localhost:99/login
